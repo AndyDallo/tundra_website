@@ -59,7 +59,7 @@ body {
 #contact_mobile {
     display: none;
 }
-@media (max-width < 768px) {
+@media screen and  (max-width : 600px) {
     #about {
         display: none;
     }
